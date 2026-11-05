@@ -1,0 +1,5 @@
+Examen práctico Módulo 3
+Nombre: Barbara Orduz Romero
+
+Ejercicio 1: Documentación JavaScript con JSDoc.
+Ejercicio 2: Control de versiones con Git y GitHub.
