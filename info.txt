@@ -10,3 +10,7 @@ Estoy aprendiendo a utilizar Git y GitHub para controlar versiones de mis proyec
 Cambios realizados en rama2:
 Esta es la primera rama secundaria del proyecto.
 Estoy practicando la creación y gestión de ramas en Git.
+
+Cambios realizados en rama3:
+Esta es la segunda rama secundaria del proyecto.
+Estoy aprendiendo a integrar ramas mediante merge.
