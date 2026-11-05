@@ -14,3 +14,6 @@ Estoy practicando la creación y gestión de ramas en Git.
 Cambios realizados en rama3:
 Esta es la segunda rama secundaria del proyecto.
 Estoy aprendiendo a integrar ramas mediante merge.
+
+Cambio final en rama main:
+Proyecto completado e integrado en la rama principal.
