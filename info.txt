@@ -6,3 +6,7 @@ Ejercicio 2: Control de versiones con Git y GitHub.
 
 Segundo commit:
 Estoy aprendiendo a utilizar Git y GitHub para controlar versiones de mis proyectos.
+
+Cambios realizados en rama2:
+Esta es la primera rama secundaria del proyecto.
+Estoy practicando la creación y gestión de ramas en Git.
